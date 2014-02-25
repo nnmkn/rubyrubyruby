@@ -1,1 +1,1 @@
-print("Hello,\nRuby\n!\n")
+print("Hello,\"Ruby\".\n")
